@@ -1,4 +1,4 @@
 # first-demo
 This is my  first Git repo
 <br>
-Author-Ritesh
+Author-Ritesh(scoe)
